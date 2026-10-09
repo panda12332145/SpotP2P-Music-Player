@@ -189,3 +189,14 @@ Para colaborações, dúvidas ou sugestões:
 🐛 **Reportar Bug:** [Abrir Issue](https://github.com/panda12332145/SpotP2P-Music-Player/issues)
 
 💡 **Sugerir Melhoria:** [Discussions](https://github.com/panda12332145/SpotP2P-Music-Player/discussions)
+
+## 📊 Métricas
+
+<!-- metrics:start -->
+| Métrica | Valor |
+|---|---|
+| ⭐ Stars | 0 |
+| 🍴 Forks | 0 |
+| 📌 Issues abertas | 0 |
+| 🕐 Último commit | 2026-09-30 |
+<!-- metrics:end -->
